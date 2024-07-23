@@ -1,0 +1,5 @@
+﻿  Azdaja.cpp
+  Source.cpp
+  Generating Code...
+Krilo.obj : error LNK2019: unresolved external symbol "public: virtual __thiscall Krilo::~Krilo(void)" (??1Krilo@@UAE@XZ) referenced in function "public: virtual void * __thiscall Krilo::`scalar deleting destructor'(unsigned int)" (??_GKrilo@@UAEPAXI@Z)
+C:\Users\Jovana PC\Desktop\faks jovana\oop visual\Privatni\azdaja\Debug\azdaja.exe : fatal error LNK1120: 1 unresolved externals

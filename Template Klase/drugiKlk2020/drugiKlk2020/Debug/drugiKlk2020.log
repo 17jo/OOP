@@ -1,0 +1,8 @@
+﻿  Roda.cpp
+  Zaba.cpp
+  Zivotinje.cpp
+  Generating Code...
+C:\Users\Jovana PC\Desktop\faks jovana\oop visual\Privatni\templejti\drugiKlk2020\drugiKlk2020\Zaba.cpp(35): warning C4715: 'Zaba::operator>': not all control paths return a value
+C:\Users\Jovana PC\Desktop\faks jovana\oop visual\Privatni\templejti\drugiKlk2020\drugiKlk2020\Roda.cpp(44): warning C4715: 'Roda::operator>': not all control paths return a value
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Jovana PC\Desktop\faks jovana\oop visual\Privatni\templejti\drugiKlk2020\Debug\drugiKlk2020.exe : fatal error LNK1120: 1 unresolved externals
